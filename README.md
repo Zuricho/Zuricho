@@ -1,19 +1,19 @@
 **Hi there!** 👋
 
-I'm Bozitao Zhong. Currently a bachelor student in Shanghai Jiao Tong University located in Shanghai, China.
+I'm **Bozitao Zhong**. Currently undergraduate in Shanghai Jiao Tong University, Shanghai, China.
 
-My main focus is doing research in computational biology field, topics like:
+**Research field** 🔬
 
-- Deep learning methods in structural biology (like AlphaFold)
+- Deep learning methods in structural biology (AlphaFold)
 - Protein design techniques and applications
-- Molecular dynamics: enhanced sampling, force field development and evaluation
+- Molecular dynamics: enhanced sampling, force field development
 - High-throughput experiments and modeling
 - Synthetic biology, iGEM competition
 
-In addition, I am also passionate about:
+**Hobbies** 🎮
 
 - Quantum computing
 - Note-taking tools (Zettelkasten)
 - Indie games
 
-Contact: [Gmail](mailto: zbztzhz@gmail.com), [Edu mail](zbztzhz@sjtu.edu.cn)
+📬: zbztzhz@gmail.com
