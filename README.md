@@ -1,8 +1,6 @@
-**Hi there!** 👋
+**Hi there!** 👋 I'm **Bozitao Zhong**. Undergrat in SJTU, Shanghai, China.
 
-I'm **Bozitao Zhong**. Currently undergraduate in Shanghai Jiao Tong University, Shanghai, China.
-
-**Research field** 🔬
+### **Research field** 🔬
 
 - Deep learning methods in structural biology (AlphaFold)
 - Protein design techniques and applications
@@ -10,7 +8,7 @@ I'm **Bozitao Zhong**. Currently undergraduate in Shanghai Jiao Tong University,
 - High-throughput experiments and modeling
 - Synthetic biology, iGEM competition
 
-**Hobbies** 🎮
+### **Hobbies** 🎮
 
 - Quantum computing
 - Note-taking tools (Zettelkasten)
