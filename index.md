@@ -1,28 +1,7 @@
 # Terminal Dogma
 
-Here's my webpage for various use, you can find the content below.
+Here’s my webpage for various use, you can find the content below.
 
-## Papers
-
-
-
-
-
-
-
-## Daily Note
-
-
-
-
-
-
-
-## Knowledge Database
-
-
-
-
-
-
-
+1. [Papers](./Papers)
+2. Daily Note
+3. Knowledge Database
