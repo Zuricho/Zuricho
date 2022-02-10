@@ -92,3 +92,9 @@ git log --graph       # 看到分支合并图
 
 
 [Another Reference for Git branch control: TortoiseGit升级操作说明](https://blog.csdn.net/cy309173854/article/details/52621185)
+
+
+
+## 如何管理分支
+
+![git_branch](git.assets/git_branch.png)
