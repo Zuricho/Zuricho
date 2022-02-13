@@ -102,3 +102,40 @@ gzip 命令
 -c 将输出写到标准输出上，并保留原有文件。-d 将压缩文件解压。-l 对每个压缩文件，显示下列字段：   压缩文件的大小；未压缩文件的大小；压缩比；未压缩文件的名字-r 递归式地查找指定目录并压缩其中的所有文件或者是解压缩。-t 测试，检查压缩文件是否完整。-v 对每一个压缩和解压的文件，显示文件名和压缩比。-num 用指定的数字 num 调整压缩的速度，-1 或 --fast 表示最快压缩方法（低压缩比），-9 或--best表示最慢压缩方法（高压缩比）。系统缺省值为 6。指令实例：
 
 gzip *% 把当前目录下的每个文件压缩成 .gz 文件。gzip -dv * 把当前目录下每个压缩的文件解压，并列出详细的信息。gzip -l *% 详细显示例1中每个压缩的文件的信息，并不解压。gzip usr.tar% 压缩 tar 备份文件 usr.tar，此时压缩文件的扩展名为.tar.gz。
+
+
+
+## 传输文件
+
+rsync: https://www.jianshu.com/p/b862af872cbd
+
+超算文档：https://docs.hpc.sjtu.edu.cn/transport/index.html?highlight=rsync
+
+
+
+## 账户
+
+https://blog.csdn.net/yychuyu/article/details/84190390
+
+
+
+## Conda 镜像源
+
+https://www.cnblogs.com/yirufeng/p/12242290.html
+
+
+
+## Link使用方式
+
+https://blog.51cto.com/u_14074978/2416657
+
+
+
+
+
+## 其他
+
+```bash
+ls | wc -l  # 看文件夹下有多少个文件
+```
+
