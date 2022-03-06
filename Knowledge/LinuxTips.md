@@ -131,6 +131,12 @@ https://blog.51cto.com/u_14074978/2416657
 
 
 
+## AMBER installation
+
+https://blog.csdn.net/qq_33953882/article/details/113995531
+
+https://blog.csdn.net/qq_36408389/article/details/88749207
+
 
 
 ## 其他
