@@ -145,3 +145,6 @@ https://blog.csdn.net/qq_36408389/article/details/88749207
 ls | wc -l  # 看文件夹下有多少个文件
 ```
 
+./run_alphafold.sh -d data -o output -p monomer_ptm -i input/GA98.fasta -t 1800-01-01 -f
+
+./run_alphafold.sh -d data -o output -p monomer_ptm -i input/GA98.fasta -t 1800-01-01
