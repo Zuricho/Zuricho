@@ -1,9 +1,5 @@
 theme: minima
-title: Zurite
-description: Personal website of Bozitao Zhong
 header_pages:
-  - Knowledge
-  - Paper
-author:
-  name: Bozitao Zhong
-  email: "zbztzhz@gmail.com"
+  - Knowledge/index.md
+  - Paper/index.md
+  - Task/index.md
