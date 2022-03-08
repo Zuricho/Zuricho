@@ -14,7 +14,9 @@
 
 [Structure Embedding](structure_embedding.md) `#protein #deeplearning`
 
+[3D Point Cloud](3d_point_cloud.md) `#protein #deeplearning`
 
+[Protein Function Prediction](protein_function_prediction.md) `#protein #deeplearning`
 
 ## Biology topics
 
