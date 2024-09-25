@@ -1,4 +1,4 @@
-**Hi there!** 👋 I'm **Bozitao Zhong**. Undergrad in SJTU, Shanghai, China.
+**Hi there!** 👋 I'm **Bozitao Zhong**. Currently in CUHK. Bachelor in SJTU.
 
 ### **Research field** 🔬
 
