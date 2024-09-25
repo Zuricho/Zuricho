@@ -10,7 +10,6 @@
 
 ### **Hobbies** 🎮
 
-- Quantum computing
 - Note-taking tools (Zettelkasten)
 - Indie games
 
