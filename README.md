@@ -1,12 +1,13 @@
-**Hi there!** 👋 I'm **Bozitao Zhong**. Currently in CUHK. Bachelor in SJTU.
+**Hi there!** 👋 I'm **Bozitao Zhong**. Currently persue Biology PhD in SJTU.
 
 ### **Research field** 🔬
 
-- Deep learning methods in structural biology (AlphaFold)
-- Protein design techniques and applications
-- Molecular dynamics: enhanced sampling, force field development
-- High-throughput experiments and modeling
-- Synthetic biology, iGEM competition
+- AlphaFold applications
+- Evolution, origin of life
+- Protein design
+- Molecular dynamics
+- High-throughput experiment
+- Synthetic biology (iGEM)
 
 ### **Hobbies** 🎮
 
