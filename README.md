@@ -1,4 +1,4 @@
-**Hi there!** 👋 I'm **Bozitao Zhong**. Currently persue Biology PhD in SJTU.
+**Hi there!** 👋 I'm **Bozitao Zhong**. Currently pursue Biology PhD in SJTU.
 
 ### **Research field** 🔬
 
